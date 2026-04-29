@@ -1,0 +1,7 @@
+{
+  "name": "Remix: tesis",
+  "description": "Aplicación de gamificación para niños con trastorno del lenguaje. Incluye 3 niveles con mecánicas de imágenes y voz para mejorar la comunicación.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
